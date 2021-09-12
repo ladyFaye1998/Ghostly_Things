@@ -1,0 +1,9 @@
+Sadly because of the use of external images and music sounds, there might be a problem with loading 
+the game by simply pressing the index.html file. 
+I succeeded with this approach using apache, but that might not be a good solution for the regular user.
+Just to clarify - I had no problem with running the files from my developing platform - WebStorm.
+
+I decided to use Github pages to provide a working link for the game, you can find it below, or a shortcut in
+the main folder.
+I hope it'd be enough.
+Thank you and have fun exploring the minigame! :)
